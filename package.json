@@ -1,0 +1,19 @@
+{
+  "name": "conduit_api_cypress",
+  "version": "1.0.0",
+  "description": "This repository contains automation tests written in Cypress for testing API of the https://conduit.bondaracademy.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kareemElsokkary/conduit_API_Cypress.git"
+  },
+  "author": "Kareem ELsokkary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kareemElsokkary/conduit_API_Cypress/issues"
+  },
+  "homepage": "https://github.com/kareemElsokkary/conduit_API_Cypress#readme"
+}
